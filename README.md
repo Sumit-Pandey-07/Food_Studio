@@ -19,17 +19,8 @@ Pick a dish, add to cart, place order, get delivered.
 6. Authenticate yourself
 7. Place Order.
 
-## Improvements to make
-1. Not responsive for Mobile phones
-2. Cart data is not stored anywhere, it should be in local storage for not logged in users to avoid losing on refresh page.
-3. While Signing up, user name is not displayed in the profile point instantly, needs a refresh. It doesn't happen in logging in process.
-4. Improve the design, take user address and payment details.
-5. Add feature to search different cities, currently working for Prayagraj only.
-
 ## How to run on your local
 1. Clone the repository 
 2. Run ```npm init```
 3. Run ```npm start```.
 4. Make sure you've allow CORS extension installed in your browser.
-
-Drop a 💫 if you liked it.
